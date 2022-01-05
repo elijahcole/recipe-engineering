@@ -1,4 +1,4 @@
-# Martini 
+# Martini (Lemon Peel)
 
 ## Ingredients
 
@@ -15,3 +15,20 @@ Combine ingredients, stir with ice, strain, and serve up. Express lemon peel ove
 
 * Nice instantiations:
   * Sipsmith London Dry Gin + Dolin Dry Vermouth + Angostura Orange Bitters
+
+# Martini (Olives)
+
+## Ingredients
+
+* 2.25 oz gin
+* 0.75 oz dry vermouth
+* 3 Castelvetrano olives
+
+## Instructions
+
+Combine ingredients, stir with ice, strain, and serve up. Place olives on a cocktail pick and drop in.  
+
+## Notes
+
+* Nice instantiations:
+  * Sipsmith London Dry Gin + Dolin Dry Vermouth
