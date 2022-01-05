@@ -5,11 +5,11 @@
 * 2 oz gin
 * 1 oz dry vermouth
 * 2 dashes orange bitters
-* Lemon peel
+* Garnish: Lemon peel
 
 ## Instructions
 
-Combine ingredients, stir with ice, strain, and serve up. Express lemon peel over the drink and drop in for garnish. 
+Combine ingredients (except lemon peel), stir with ice, strain, and serve up. Express lemon peel over the drink and drop in for garnish. 
 
 ## Notes
 
@@ -26,7 +26,7 @@ Combine ingredients, stir with ice, strain, and serve up. Express lemon peel ove
 
 ## Instructions
 
-Combine ingredients, stir with ice, strain, and serve up. Place olives on a cocktail pick and drop in.  
+Combine ingredients (except olives), stir with ice, strain, and serve up. Place olives on a cocktail pick and drop in.  
 
 ## Notes
 
