@@ -1,5 +1,5 @@
-# cocktail-engineering
-Cocktail recipes and notes.
+# recipe-engineering
+Recipes and notes.
 
 The folders are as follows:
 * [``batched-cocktails``](https://github.com/elijahcole/cocktail-engineering/tree/main/batched-cocktails): Cocktail recipes for a crowd. 
