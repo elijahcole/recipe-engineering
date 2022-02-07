@@ -1,34 +1,18 @@
-# Martini (Lemon Peel)
+# Martini 
 
-## Ingredients
+## Ingredients (Variant #1)
 
-* 2 oz gin
+* 2 oz gin (American style)
 * 1 oz dry vermouth
-* 2 dashes orange bitters
+* 1 dash orange bitters
 * Garnish: Lemon peel
 
-## Instructions
+## Ingredients (Variant #2)
 
-Combine ingredients (except lemon peel), stir with ice, strain, and serve up. Express lemon peel over the drink and drop in for garnish. 
-
-## Notes
-
-* Nice instantiations:
-  * Sipsmith London Dry Gin + Dolin Dry Vermouth + Angostura Orange Bitters
-
-# Martini (Olives)
-
-## Ingredients
-
-* 2.25 oz gin
-* 0.75 oz dry vermouth
-* 3 Castelvetrano olives
+* 2 oz gin (London dry, navy strength)
+* 0.5 oz dry vermouth
+* Garnish: 3 Castelvetrano olives
 
 ## Instructions
 
-Combine ingredients (except olives), stir with ice, strain, and serve up. Place olives on a cocktail pick and drop in.  
-
-## Notes
-
-* Nice instantiations:
-  * Sipsmith London Dry Gin + Dolin Dry Vermouth
+Combine ingredients (except garnish), stir with ice, strain, and serve up. If using lemon peel, express over the drink and drop in. If using olives, skewer them on cocktail pick and drop in. 
