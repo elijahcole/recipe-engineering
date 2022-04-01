@@ -28,4 +28,4 @@
 12. Slice paneer into bite-sized cubes and throw into the skillet.
 13. Take a pinch of fenugreek leaves, crumble over the curry, and stir. 
 14. Simmer for ~10 minutes.
-15. Serve with some [basmati rice](misc/basmati_rice.md).
+15. Serve with some [basmati rice](/misc/basmati_rice.md).
