@@ -1,4 +1,6 @@
-# Ingredients
+# Butter Paneer
+
+## Ingredients
 * 1 onion
 * 1.5 tsp cumin
 * 1.5 tsp garam masala
@@ -13,7 +15,7 @@
 * salt
 * sugar
 
-# Instructions
+## Instructions
 1. Heat a **large** skillet on medium-high heat.
 2. Toss in the onions, add a pinch of salt, and cook until the onions begin to soften.
 3. Add ginger garlic paste. Stir in, ~30 seconds. 
