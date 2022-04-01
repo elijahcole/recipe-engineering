@@ -16,7 +16,7 @@
 * sugar
 
 ## Instructions
-1. Heat a **large** skillet on medium-high heat.
+1. Heat ~1 tbsp of Ghee in **large** skillet on medium-high heat.
 2. Toss in the onions, add a pinch of salt, and cook until the onions begin to soften.
 3. Add ginger garlic paste. Stir in, ~30 seconds. 
 4. Add coriander, cumin, garam masala. Stir in, ~30 seconds. 
