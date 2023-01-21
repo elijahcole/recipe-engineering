@@ -40,3 +40,4 @@
 * A 3.5 qt. dutch oven works well for this recipe. 
 * Chicken stock also works fine. 
 * Cognac can be replaced with similar spirits. 
+* Makes 4 substantial bowls. 
