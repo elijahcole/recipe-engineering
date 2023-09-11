@@ -6,3 +6,4 @@ The folders are as follows:
 * [``cocktails``](https://github.com/elijahcole/cocktail-engineering/tree/main/cocktails): Single-serving cocktail recipes. 
 * [``mains``](https://github.com/elijahcole/recipe-engineering/tree/main/mains): Main courses.
 * [``misc``](https://github.com/elijahcole/cocktail-engineering/tree/main/cocktails): Recipes which don't fall into other categories. 
+* [``sides``](https://github.com/elijahcole/recipe-engineering/tree/main/sides): Side dishes. 
