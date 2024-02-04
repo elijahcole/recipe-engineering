@@ -27,7 +27,7 @@ For tartar sauce:
 2. Use your hands or a rubber spatula to gently mix until the ingredients come together. 
 3. Shape into 6 cakes, place on foil-covered baking sheet, cover and refrigerate for 1 hour.
 4. For tartar sauce, whisk together ingredients and adjust lemon juice, salt, and pepper to taste. Cover and chill. 
-5. Once crab cakes ar chilled, add oil to skillet over medium heat.
+5. Once crab cakes are chilled, add oil to skillet over medium heat.
 6. Cook crab cakes until golden brown, 3-5 minutes per side.
 7. Serve crab cakes warm with chilled tartar sauce. Garnish with lemon wedges. 
 
