@@ -18,7 +18,7 @@
 3. Roughly chop onion, garlic, ginger. Add to pot, cook for ~4 minutes.
 4. Add carrots and curry paste. Cook for ~2 minutes. 
 5. Add stock, coconut milk, fish sauce, pinch of salt. Bring to boil, reduce to simmer, cook until carrots are soft (~15 minutes). 
-6. Zest and juice lime into the pot. 
+6. Zest lime and juice half the lime, add zest and juice to the pot. 
 7. Blend until smooth. 
 8. Season to taste. 
 
