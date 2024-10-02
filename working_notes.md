@@ -2,3 +2,4 @@
   * Good recipe. Amount of filling can be tricky - too little and you wind up with dense multi-layers of rice paper.
 * Blistered tomatoes
 * Scallops
+* Watermelon feta salad
