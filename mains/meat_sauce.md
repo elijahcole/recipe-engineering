@@ -4,8 +4,8 @@
 * Half an onion
 * 1 lb. ground beef
 * 4-5 garlic cloves, coarsely chopped
-* 1 cup milk
-* 1 cup red wine
+* 1/2 cup milk
+* 1/2 cup red wine
 * red pepper flakes (to taste)
 * italian seasoning (to taste)
 * 1 28 oz. can whole tomatoes
